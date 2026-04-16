@@ -10,3 +10,5 @@ pypdf
 pandas
 python-dotenv
 ipykernel
+pymupdf
+langchain-text-splitters
